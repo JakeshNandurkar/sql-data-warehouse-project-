@@ -98,13 +98,16 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 __________________________________________________________________
 ## 🌟 About Me 
 __________________________________________________________________
-Hi there! I'm **Jakesh Nandurkar**, a **GCP Data Engineer** passionate about building scalable data solutions and transforming raw data into meaningful business insights.
+Hi there! I'm **Jakesh Nandurkar**, a **Data Engineer** working across **GCP, Azure and Databricks**, turning messy operational data into reliable, analysis-ready datasets.
 
-Skills: SQL • Python • GCP • Power BI • Excel
-Focus: Data Engineering • Data Warehousing • ETL/ELT • Analytics
+I bring **5+ years of experience in high-volume logistics operations at UPS**, working on data quality, audits, KPI analysis and process improvement. I'm now applying that rigor to building cloud data pipelines and lakehouse solutions.
 
-This project reflects my hands-on learning and practical approach to building a modern **Data Warehouse and Analytics solution**, covering data ingestion, data transformation, data quality, dimensional modeling, and analytical reporting.
+**🛠️ Skills:** SQL · Python (Pandas, PySpark) · Apache Spark · Databricks · BigQuery · Azure · Cloud Storage · Pub/Sub · Dataflow · Datastream · Power BI · Excel
 
-With a background in **Finance, Operations, and Analytics**, I enjoy connecting technical data solutions with real-world business requirements to help organizations make **data-driven decisions**.
+**🎯 Focus areas:** ETL/ELT pipelines · Batch & streaming processing · CDC · Data warehousing · Dimensional modeling · Data quality validation
 
-🚀 **Currently focused on growing my expertise in GCP Data Engineering and building production-oriented data projects.**
+**📂 What you'll find here:** Hands-on projects covering data ingestion, transformation, quality checks, dimensional modeling and analytical reporting, built to mirror real-world business requirements.
+
+**🚀 Currently:** Deepening my expertise in cloud data engineering (GCP, Azure, Databricks) and building production-style data projects.
+
+📫 Open to Data Engineer, GCP Data Engineer and Cloud Data Engineer roles (Pune, hybrid/remote).
